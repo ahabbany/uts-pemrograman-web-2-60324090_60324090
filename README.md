@@ -26,7 +26,7 @@ Fitur utama:
 
 git clone (https://github.com/ahabbany/uts-pemrograman-web-2-60324090_60324090.git)
 
-atau download manual lalu ekstrak ke: C:\xampp\htdocs\perpustakaan
+atau download manual lalu ekstrak ke: C:\xampp\htdocs\uts_60324090
 
 ---
 
@@ -40,18 +40,16 @@ atau download manual lalu ekstrak ke: C:\xampp\htdocs\perpustakaan
 - Buka: `http://localhost/phpmyadmin`
 - Buat database:
 
-uts_perpustakaan_[NIM]
+uts_perpustakaan_60324090
 
 - Klik **Import**
-- Masukkan file `.sql`
+- Masukkan file `database_export.sql`
 - Klik **Go**
 
 ---
 
 ### 4. Jalankan Aplikasi
-Buka browser:
-
-http://localhost/perpustakaan
+Buka browser: http://localhost/uts_60324090
 
 
 ---
@@ -78,7 +76,6 @@ uts_60324090/
 
 ## Fitur
 - CRUD Kategori
-- CRUD Anggota
 - Validasi data
 - Koneksi database menggunakan mysqli
 
