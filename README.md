@@ -57,7 +57,7 @@ http://localhost/perpustakaan
 
 ## Struktur Folder
 
-## 📁 Struktur Folder
+## Struktur Folder
 
 ```
 uts_60324090/
