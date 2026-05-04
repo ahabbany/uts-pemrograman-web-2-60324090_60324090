@@ -14,7 +14,8 @@ Fitur utama:
 ## Teknologi yang Digunakan
 - PHP Native
 - MySQL
-- HTML, CSS
+- HTML
+- Boostrap (css framework)
 - XAMPP (Apache & MySQL)
 
 ---
