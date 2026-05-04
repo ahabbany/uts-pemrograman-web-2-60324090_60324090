@@ -23,7 +23,7 @@ Fitur utama:
 
 ### 1. Clone / Download Project
 
-git clone https://github.com/username/perpustakaan.git
+git clone (https://github.com/ahabbany/uts-pemrograman-web-2-60324090_60324090.git)
 
 atau download manual lalu ekstrak ke: C:\xampp\htdocs\perpustakaan
 
