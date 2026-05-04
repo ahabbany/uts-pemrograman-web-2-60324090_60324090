@@ -57,16 +57,20 @@ http://localhost/perpustakaan
 
 ## Struktur Folder
 
-perpustakaan/
+## 📁 Struktur Folder
+
+```
+uts_60324090/
 ├── config/
-├── assets/
-│ ├── css/
-│ └── js/
-├── includes/
-├── modules/
-│ ├── kategori/
-│ └── anggota/
-└── index.php
+│   ├── database.php
+├── create.php
+├── delete.php
+├── edit.php
+├── index.php  
+└── database_export.sql
+```
+ 
+
 
 
 ---
